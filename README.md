@@ -15,12 +15,15 @@ Proyek ini merupakan aplikasi berbasis **Python + Streamlit** untuk melakukan **
    ```bash
    git clone https://github.com/username/nama-repo.git
    cd nama-repo
+   ```
 2. Install dependensi:
    ```bash
     pip install -r requirements.txt
+   ```
 3. Jalankan aplikasi:
    ```bash
     streamlit run app.py
+   ```
 4. Gunakan aplikasi:
    - Pilih kategori klasifikasi pada sidebar
    - Unggah file .zip yang berisi dokumen-dokumen untuk diklasifikasi
@@ -32,9 +35,7 @@ Proyek ini merupakan aplikasi berbasis **Python + Streamlit** untuk melakukan **
    
    🧠 Teknologi yang Digunakan
    Python
-   
    Streamlit
-   
    Scikit-learn / TensorFlow / (sesuaikan dengan yang kamu gunakan)
    
    Pandas, NumPy, dll.
@@ -52,6 +53,3 @@ Proyek ini merupakan aplikasi berbasis **Python + Streamlit** untuk melakukan **
 🔗 Demo Langsung:
 https://imamamirullohfinalproject.streamlit.app/
 
-yaml
-Copy
-Edit
