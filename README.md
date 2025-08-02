@@ -1,7 +1,3 @@
-
-markdown
-Copy
-Edit
 # 📁 Klasifikasi Dokumen AI
 
 Proyek ini merupakan aplikasi berbasis **Python + Streamlit** untuk melakukan **klasifikasi dokumen otomatis** menggunakan kecerdasan buatan. Pengguna dapat mengunggah file `.zip` yang berisi kumpulan dokumen (seperti PDF atau teks), lalu sistem akan mengklasifikasikan dokumen ke dalam kategori yang dipilih.
