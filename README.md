@@ -22,22 +22,22 @@ Proyek ini merupakan aplikasi berbasis **Python + Streamlit** untuk melakukan **
    ```bash
     streamlit run app.py
 4. Gunakan aplikasi:
-- Pilih kategori klasifikasi pada sidebar
-- Unggah file .zip yang berisi dokumen-dokumen untuk diklasifikasi
-- Sistem akan menampilkan hasil klasifikasi per dokumen
-
-📦 Contoh File Zip
-Gunakan contoh file .zip berikut untuk menguji aplikasi:
-🔗 Download Contoh File
-
-🧠 Teknologi yang Digunakan
-Python
-
-Streamlit
-
-Scikit-learn / TensorFlow / (sesuaikan dengan yang kamu gunakan)
-
-Pandas, NumPy, dll.
+   - Pilih kategori klasifikasi pada sidebar
+   - Unggah file .zip yang berisi dokumen-dokumen untuk diklasifikasi
+   - Sistem akan menampilkan hasil klasifikasi per dokumen
+   
+   📦 Contoh File Zip
+   Gunakan contoh file .zip berikut untuk menguji aplikasi:
+   🔗 Download Contoh File
+   
+   🧠 Teknologi yang Digunakan
+   Python
+   
+   Streamlit
+   
+   Scikit-learn / TensorFlow / (sesuaikan dengan yang kamu gunakan)
+   
+   Pandas, NumPy, dll.
 
 📂 Struktur Folder
   ```bash
@@ -48,3 +48,10 @@ Pandas, NumPy, dll.
     ├── model/
     │   └── (model klasifikasi yang digunakan)
     └── README.md
+   ```
+🔗 Demo Langsung:
+https://imamamirullohfinalproject.streamlit.app/
+
+yaml
+Copy
+Edit
