@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+zipfile36
+python-docx
+PyPDF2
+datasets 
+scikit-learn
+accelerate
